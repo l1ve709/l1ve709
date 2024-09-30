@@ -9,10 +9,7 @@
 ![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709XXD&show_icons=true&theme=radical)
 
 
-<picture>
-  <source srcset="https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali" media="(prefers-color-scheme: dark)">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali">
-</picture>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali)](https://skillicons.dev)
 
 
 
