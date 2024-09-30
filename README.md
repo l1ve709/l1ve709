@@ -4,7 +4,7 @@
 
 -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=tokyonight)](https:// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709XXD&show_icons=true&theme=radical)github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=tokyonight)]  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709XXD&show_icons=true&theme=radical)github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
