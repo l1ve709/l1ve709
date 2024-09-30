@@ -1,6 +1,6 @@
 # Hey There 👋 
 
-**Hi! I'm Ediz, a 19 y/o software developer from Turkiye.**
+**Hi! I'm Ediz, a 19 y/o Full-Stack developer from Turkiye.**
 
 -
 
