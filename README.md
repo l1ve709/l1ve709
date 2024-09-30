@@ -4,7 +4,7 @@
 
 -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=tokyonight)]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=tokyonight)
 
 
 <picture>
