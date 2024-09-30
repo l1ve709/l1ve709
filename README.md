@@ -4,7 +4,7 @@
 
 -
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XD&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=radical)
 
 ![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709XXD&show_icons=true&theme=radical)
 
