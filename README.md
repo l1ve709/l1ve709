@@ -4,9 +4,9 @@
 
 -
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=radical)
 
-![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709&show_icons=true&theme=dark)
+![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709&show_icons=true&theme=radical)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali)](https://skillicons.dev)
