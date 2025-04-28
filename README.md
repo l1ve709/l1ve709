@@ -4,7 +4,7 @@
 
 -
 **beni tanıyanlar için**>=
-bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesapayım !!
+bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesaptayım !!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=radical)
 
