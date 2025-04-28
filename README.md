@@ -3,7 +3,7 @@
 **Hi! I'm Ediz, a young Full-Stack developer from Turkiye.**
 
 -
-**beni tanıyanlar için**
+**beni tanıyanlar için**>=
 bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesapayım !!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=radical)
