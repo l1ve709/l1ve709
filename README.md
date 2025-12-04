@@ -1,7 +1,7 @@
 # Hey There 👋 
 
 **Hi! I'm Ediz, a young Full-Stack developer from Turkiye.**
-
+For Contact/İletişim İçin: ![My Instagram](https://instagram.com/ediz.dll)
 -
 **beni tanıyanlar için**>=
 bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesaptayım !!
