@@ -12,7 +12,7 @@ bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesaptayım !!
 ![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709&show_icons=true&theme=radical)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,bots,sqlite,vscode,linux,debian,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,js,cpp,cs,nodejs,react,py,bots,sqlite,vscode,debian,github)](https://skillicons.dev)
 
 
 
