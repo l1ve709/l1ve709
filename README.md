@@ -1,5 +1,6 @@
-## 🚀 Featured Project
+## 🚀 Featured Big Project
 
+<a href="https://github.com/l1ve709/NeuroPace-RDNA">
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=dark"
@@ -11,6 +12,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA" />
 </picture>
+</a>
 
 
 
