@@ -1,7 +1,16 @@
-## 🚀 Latest Project
+## 🚀 Featured Project
 
-[![NeuroPace RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA)](https://github.com/l1ve709/NeuroPace-RDNA)
-
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA" />
+</picture>
 
 
 
