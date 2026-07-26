@@ -22,7 +22,6 @@ I don't have access to my old GitHub account—I've been using this account sinc
 
 ## My Discord Acc
 
-<a href="https://discord.com/users/1224393032158150776">
-  <img src="https://lanyard.cnrad.dev/api/1224393032158150776?theme=dark&bg=000000&borderRadius=15px&animated=true" width="450"/>
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1224393032158150776?theme=dark&bg=0D1117&borderRadius=10px&idleMessage=Şu%20an%20aktif%20değilim)](https://discord.com/users/1224393032158150776)
+
 <img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
