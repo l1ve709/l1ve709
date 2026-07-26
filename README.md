@@ -22,8 +22,8 @@
 For Contact/İletişim İçin: [My Instagram](https://instagram.com/ediz.dll)
 
 -
-**beni tanıyanlar için**>=
-bildiğiniz eski github hesabıma erişimim yok 2024 den beri bu hesaptayım !!
+**For those who know me**>=
+I don't have access to my old GitHub account—I've been using this account since 2024!!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=radical)
 
