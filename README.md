@@ -1,18 +1,7 @@
 ## 🚀 Featured Big Project
 
-<a href="https://github.com/l1ve709/NeuroPace-RDNA">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA" />
-</picture>
-</a>
+[![NeuroPace-RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=dark#gh-dark-mode-only)](https://github.com/l1ve709/NeuroPace-RDNA)
+[![NeuroPace-RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=default#gh-light-mode-only)](https://github.com/l1ve709/NeuroPace-RDNA)
 
 
 
@@ -25,12 +14,9 @@ For Contact/İletişim İçin: [My Instagram](https://instagram.com/ediz.dll)
 **For those who know me**>=
 I don't have access to my old GitHub account—I've been using this account since 2024!!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709&layout=compact&theme=radical)
-
-![l1ve709's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ve709&show_icons=true&theme=radical)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,js,cpp,cs,nodejs,react,py,bots,sqlite,vscode,debian,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,vue,vite,js,cpp,cs,nodejs,react,py,bots,sqlite,vscode,debian,github)](https://skillicons.dev)
 
 
 
