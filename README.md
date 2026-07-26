@@ -21,6 +21,7 @@ I don't have access to my old GitHub account—I've been using this account sinc
 
 
 ## My Discord Acc
-![My Discord](https://lantern.rest/api/v1/users/794909914760871967?svg=1&theme=dark&borderRadius=2&hideActivity=1&hideStatus=0)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1224393032158150776)](https://discord.com/users/1224393032158150776)
 
 <img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
