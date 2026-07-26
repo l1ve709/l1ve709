@@ -1,7 +1,6 @@
 ## 🚀 Featured Big Project
 
-[![NeuroPace-RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=dark#gh-dark-mode-only)](https://github.com/l1ve709/NeuroPace-RDNA)
-[![NeuroPace-RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=default#gh-light-mode-only)](https://github.com/l1ve709/NeuroPace-RDNA)
+[![NeuroPace-RDNA](https://github-readme-stats.vercel.app/api/pin/?username=l1ve709&repo=NeuroPace-RDNA&theme=transparent)](https://github.com/l1ve709/NeuroPace-RDNA)
 
 
 
