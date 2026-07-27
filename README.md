@@ -13,15 +13,15 @@ For Contact/İletişim İçin: [My Instagram](https://instagram.com/ediz.dll)
 I don't have access to my old GitHub account—I've been using this account since 2024!!
 
 
+### ♾️ My Daily Routine
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,vue,vite,js,cpp,cs,nodejs,react,py,bots,sqlite,vscode,debian,github)](https://skillicons.dev)
+```javascript
+const myLife = async () => {
+    while (true) {
+        await eat();
+        await sleep();
+        await code();
+    }
+};
 
-
-
-
-
-## My Discord Acc
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1224393032158150776)](https://discord.com/users/1224393032158150776)
-
-<img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
+myLife();
