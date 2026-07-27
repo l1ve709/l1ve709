@@ -28,9 +28,3 @@ const myLife = async () => {
 };
 
 myLife();
-
-
-
-
-
-
