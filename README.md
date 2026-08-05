@@ -16,15 +16,3 @@ I don't have access to my old GitHub account—I've been using this account sinc
 [![My Skills](https://skillicons.dev/icons?i=ruby,vue,vite,js,cpp,cs,nodejs,py,bots,sqlite,vscode,debian)](https://skillicons.dev)
 
 
-### ♾️
-
-```javascript
-const myLife = async () => {
-    while (true) {
-        await eat();
-        await sleep();
-        await code();
-    }
-};
-
-myLife();
