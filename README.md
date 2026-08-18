@@ -16,6 +16,3 @@
 **For those who know me**>=
 I don't have access to my old GitHub account—I've been using this account since 2024!!
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=ruby,vue,vite,js,cpp,cs,nodejs,py,bots,sqlite,vscode,debian)](https://skillicons.dev)
