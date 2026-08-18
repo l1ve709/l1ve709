@@ -6,13 +6,16 @@
 # Hey There 
 
 **Hi! I'm Ediz, a young mid-level Full-Stack developer from Turkiye.**
-For Contact/İletişim İçin: [My Instagram](https://instagram.com/ediz.dll)
+
+**For Contact / İletişim İçin:**
+- 📧 [me@edizsonmez.com.tr](mailto:me@edizsonmez.com.tr)
+- 📧 [ed1z@duck.com](mailto:ed1z@duck.com)
+- 📸 [My Instagram](https://instagram.com/ediz.dll)
 
 
 **For those who know me**>=
 I don't have access to my old GitHub account—I've been using this account since 2024!!
 
 
+
 [![My Skills](https://skillicons.dev/icons?i=ruby,vue,vite,js,cpp,cs,nodejs,py,bots,sqlite,vscode,debian)](https://skillicons.dev)
-
-
